@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TravelerInTheDark</h1>
-<h3 align="center">A turkish programmer loves doing stuff</h3>
+<h3 align="center">A turkish programmer who loves doing stuff</h3>
 
 - 🔭 I’m currently working on [Cone 2D](https://github.com/TravelerInTheDark/Cone-2d)
 
