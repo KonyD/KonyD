@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Cone 2D](https://github.com/TravelerInTheDark/Cone-2d)
 
-- 🌱 I’m currently learning **Go, Rust and MongoDB**
+- 🌱 I’m currently learning ****
 
 - 👨‍💻 All of my projects are available at [https://github.com/TravelerInTheDark](https://github.com/TravelerInTheDark)
 
