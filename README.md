@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm KonyDev</h1>
 <h3 align="center">A turkish programmer who loves doing stuff</h3>
 
-- 🔭 I’m currently working on [Cone 2D](https://github.com/TravelerInTheDark/Cone-2d)
+- 🔭 I’m currently working on ***
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning htmx
 
-- 👨‍💻 All of my projects are available at [https://github.com/TravelerInTheDark](https://github.com/TravelerInTheDark)
+- 👨‍💻 All of my projects are available at [https://github.com/KonyD](https://github.com/KonyD)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
