@@ -20,4 +20,6 @@
 ![NodeJs](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs)&nbsp;
 ![Deno](https://img.shields.io/badge/-Deno-05122A?style=flat&logo=deno)&nbsp;
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=konyD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=konyD&theme=onedark)](https://github.com/konyD/github-profile-trophy)
