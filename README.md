@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm KonyDev</h1>
 <h3 align="center">A turkish programmer who loves doing stuff</h3>
 
-- 🔭 I’m currently working on ***
+- 🔭 I’m currently working on *****
 
-- 🌱 I’m currently learning ***Bevy***
+- 🌱 I’m currently learning ******
 
 - 👨‍💻 All of my projects are available at [https://github.com/KonyD](https://github.com/KonyD)
 
