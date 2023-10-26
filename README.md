@@ -27,4 +27,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=konyD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=konyD&theme=onedark)](https://github.com/konyD/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KonyD&theme=dracula)](https://github.com/konyD/github-profile-trophy)
