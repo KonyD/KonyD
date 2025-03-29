@@ -3,7 +3,6 @@
 
 ### Socials
 <a href="https://twitter.com/Kony_Dev" target="_blank"><img src="https://img.shields.io/badge/twitter-%230A0A0A.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://www.reddit.com/user/KonyDev" target="_blank"><img src="https://img.shields.io/badge/reddit-%230A0A0A.svg?&style=flat-square&logo=reddit&logoColor=white" alt="Reddit"></a>
 
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
