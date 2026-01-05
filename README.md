@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm KonyDev</h1>
 <h3 align="center">A passionate programmer</h3>
 
-### Socials
-<a href="https://twitter.com/Kony_Dev" target="_blank"><img src="https://img.shields.io/badge/twitter-%230A0A0A.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B)&nbsp;
